@@ -3,4 +3,8 @@ fourth - my branch
 기능 1 추가
 some hot fix
 
+<<<<<<< HEAD
 hot fix 2
+=======
+feature1
+>>>>>>> d6b8340 (feature1)
